@@ -5,8 +5,9 @@
   "publisher": "Mikov",
 	"version": "0.0.1",
 	"engines": {
-		"vscode": "^1.32.0"
-	},
+		"vscode": "^1.40.0"
+  },
+  "repository": "https://github.com/geeklog/vsce-filestatus.git",
 	"categories": [
 		"Other"
 	],
